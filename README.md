@@ -1,3 +1,1 @@
 # Algorithm
-
-Studying for algorithm
